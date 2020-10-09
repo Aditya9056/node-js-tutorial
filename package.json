@@ -1,0 +1,18 @@
+{
+  "name": "nodejs_starting",
+  "version": "1.0.0",
+  "description": "NodeJS starting",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Aditya Jain",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
